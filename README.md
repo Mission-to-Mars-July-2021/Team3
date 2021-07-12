@@ -5,7 +5,8 @@ TinkerCad Circuit basic design URL is
 https://www.tinkercad.com/things/dTpWuYOrQGH-team3/editel?sharecode=Q5doPBnntilaee3FNnkvc0uBJ_SgiDVFtLn1rh3_JtI
 
 ## Team Values
-Chocolate
+Chocolate</br>
+PlaceHolder
 
 ## Scrum Git
 ### (Replace with your name and item.)
