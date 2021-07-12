@@ -1,4 +1,4 @@
-# Fire Storm Crusaders
+# **Fire Storm Crusaders**
 
 TinkerCad Circuit basic design URL is
 
@@ -8,7 +8,7 @@ https://www.tinkercad.com/things/dTpWuYOrQGH-team3/editel?sharecode=Q5doPBnntila
 What are your team values?
 
 ## Scrum Git
-Replace with your name and item. 
+Replace with your name and item.
 
 ## Day 1 Retrospective
 
