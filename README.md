@@ -12,16 +12,20 @@ PlaceHolder
 ### (Replace with your name and item.)
 Joshua Bannister "Whats an Item"
 
-
 ## Day 1 Retrospective
 
 ### What went well
+Most of the work set was completed and we started to use tinker cad better.
 
 ### What didn't go well
+Communication between the team as we didnt know who eachother were.
+
 
 ### What we will do more of tomorrow
+Better use of git and comunication.
 
 ### What we will do less of tomorrow
+less arkward silence.
 
 ## Day 2 Retrospective
 
