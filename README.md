@@ -28,6 +28,9 @@ Better use of git and comunication.
 less arkward silence.
 
 ## Day 2 Retrospective
+We managed to get the rover moving in a straight line and stop at an exact point.
+However turning is something we have not worked on yet.
+The team has bonded more and is working better than before.
 
 ## Day 3 Retrospective
 
