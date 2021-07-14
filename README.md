@@ -33,6 +33,9 @@ However turning is something we have not worked on yet.
 The team has bonded more and is working better than before.
 
 ## Day 3 Retrospective
+The tasks we were set were correct on the first rover test.
+We worked out to get the rover going in a zig zag formation but we still need to work on getting it 
+to go in a straight line for 10 seconds due to a list of errors we are still trying to trouble shoot.
 
 ## Day 4 Retrospective
 
