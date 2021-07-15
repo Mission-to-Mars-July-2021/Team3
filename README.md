@@ -40,8 +40,8 @@ to go in a straight line for 10 seconds due to a list of errors we are still try
 ## Day 4 Retrospective
 We have done Alot of Rover Testing Today to try and find the best settings to make it go into a sqaure these however are not successful at the moment and require further tweeking to get a successful square.
 We have successfully done the stright line test so progress has been made on the stories.
-Thinks that can be worked on are the amount of time we take before putting things into action.
-we spent so much money testing that we are back to 4th but we need to use trial and error on the current test as it is a bit harder to simulate.
+Things that can be worked on are the amount of time we take before putting things into action.
+We spent so much money testing that we are back to 4th but we need to use trial and error on the current test as it is a bit harder to simulate.
 
 ## Final Retrospective
 
