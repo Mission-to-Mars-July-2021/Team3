@@ -55,16 +55,17 @@ void FWD3(int TurnL, int TurnR)//square driving
   FWD2(200,200);
   delay(2000);
   STOP();
-  delay(900);
+  delay(1000); //Time Driving
   analogWrite(ENABLEL, TurnL);
   analogWrite(ENABLER, TurnR);
   digitalWrite(FORWARDL, HIGH);
   digitalWrite(REVERSEL, LOW);
   digitalWrite(FORWARDR, HIGH);
   digitalWrite(REVERSER, LOW);
-  delay(1900);
+  delay(1250); //TIME FOR TURNING
   squareloop++;
   }
+ delay(2000);
   STOP();
   exit(0);
 }
